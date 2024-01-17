@@ -1,6 +1,6 @@
 # Welcome to My GitHub Profile! 👋
 
-Kia ora! I'm Prasanthy Bhaskaran, a seasoned Accountant from the vibrant landscapes of India, where I've meticulously managed financial intricacies. Now, I'm leveraging my expertise in financial management, transitioning from meticulously balancing books to skillfully crafting code. I bring a unique blend of financial precision to infuse a touch of calculated creativity into the world of technology.. As I navigate the shift from numbers to pixels, I bring a unique blend of Indian finesse and global innovation to the dynamic tech sphere.
+Kia ora! I'm Prasanthy , a seasoned Accountant from the vibrant landscapes of India, where I've meticulously managed financial intricacies. Now, I'm leveraging my expertise in financial management, transitioning from meticulously balancing books to skillfully crafting code. I bring a unique blend of financial precision to infuse a touch of calculated creativity into the world of technology.. As I navigate the shift from numbers to pixels, I bring a unique blend of Indian finesse and global innovation to the dynamic tech sphere.
 
 ## About Me
 - 🥐 **From Ledgers to Code:** A Delectable Transition
