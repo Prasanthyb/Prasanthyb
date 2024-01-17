@@ -35,10 +35,9 @@ Kia ora! I'm Prasanthy,currently embracing the vibrant vibes of Auckland, New Ze
 - 🚀 **Lifelong Learning:** Continuous Improvement
 
 ## Connect with Me
-- 🌐 [GitHub](Your GitHub Link)
-- 👔 [LinkedIn](Your LinkedIn Link)
-- 🧙‍♂️ [Personal Website](Your Personal Website Link)
-- 🚀 [Projects Portfolio](Your Projects Portfolio Link)
+- 🌐 [GitHub](https://github.com/Prasanthyb)
+- 👔 [LinkedIn](https://www.linkedin.com/in/prasanthy-bhaskaran-74ab1b2a3)
+- 🚀 [https://portfolio.prasanthy.in/](Your Projects Portfolio Link)
 
 Let's embark on this coding adventure together, combining flavors from the culinary world with the endless possibilities of code. Reach out if you're excited about technology, creativity, or just want to chat over a virtual cup of coffee!
 
