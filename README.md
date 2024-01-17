@@ -40,4 +40,4 @@ Kia ora! I'm Prasanthy Bhaskaran, a seasoned Accountant from the vibrant landsca
 
 Let's embark on this coding adventure together, blending the richness of financial expertise with the endless possibilities of code. Reach out if you're passionate about technology, creativity, or simply want to chat over a virtual cup of coffee!
 
-Thank you ! and happy coding! 🚀
+Thank you and happy coding! 🚀
