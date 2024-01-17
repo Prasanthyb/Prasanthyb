@@ -1,16 +1,16 @@
 # Welcome to My GitHub Profile! 👋
 
-Kia ora! I'm Prasanthy,currently embracing the vibrant vibes of Auckland, New Zealand. My journey began more than a decade ago, crafting delectable and artful pastries within the esteemed walls of Michelin-starred restaurants and opulent palace hotels across the charming city of Paris. But now, I'm embarking on an exhilarating transformation, charting a new course from being a seasoned pastry virtuoso to a burgeoning Full Stack Developer.
+Kia ora! I'm Prasanthy Bhaskaran, a seasoned Accountant from the vibrant landscapes of India, where I've meticulously managed financial intricacies. Now, I'm leveraging my expertise in financial management, transitioning from meticulously balancing books to skillfully crafting code. I bring a unique blend of financial precision to infuse a touch of calculated creativity into the world of technology.. As I navigate the shift from numbers to pixels, I bring a unique blend of Indian finesse and global innovation to the dynamic tech sphere.
 
 ## About Me
-- 🥐 **From Pastries to Pixels:** A Delectable Transition
-- 🇫🇷 **Parisian Artistry meets Kiwi Innovation**
+- 🥐 **From Ledgers to Code:** A Delectable Transition
+- 🇮🇳 **Indian Expertise meets Global Innovation**
 - 🌏 **Exploring New Zealand's Wonders while Crafting Code**
 - 📚 **Currently mastering Full Stack Development at Mission Ready HQ**
-- ⌨️ **Blending Precision from the Kitchen with the Logic of Code**
+- ⌨️ **Blending Financial Precision with the Logic of Code**
 
 ## My Path
-- 👨‍🍳 **A Decade of Culinary Excellence in Paris and Auckland**
+- 👨‍🍳 **A Decade of Financial Excellence in India**
 - 📜 **Embracing the Challenge of Full Stack Development**
 - 💻 **Enthusiastic about Front-end and Back-end Equally**
 - ⌨️ **Coding with Finesse and a Pinch of Creativity**
@@ -28,7 +28,6 @@ Kia ora! I'm Prasanthy,currently embracing the vibrant vibes of Auckland, New Ze
 - 📦 **Front-end Magic:** HTML, CSS, JavaScript, React, Typescript, Next.js
 - 🎨 **CSS Framework Artisan:** Tailwind CSS, Bootstrap, Material-UI (Mui)
 - 📡 **Back-end Wizardry:** Node.js, Express.js
-- 🐍 **Python Prowess:** Flask, Django
 - 🗃️ **Database Sorcery:** MongoDB, MySQL
 - 💻 **DevOps Alchemist:** CI/CD, Docker
 - ⚙️ **Version Control:** Git
@@ -39,6 +38,6 @@ Kia ora! I'm Prasanthy,currently embracing the vibrant vibes of Auckland, New Ze
 - 👔 [LinkedIn](https://www.linkedin.com/in/prasanthy-bhaskaran-74ab1b2a3)
 - 🚀 [Projects Portfolio](<https://portfolio.prasanthy.in/>)
 
-Let's embark on this coding adventure together, combining flavors from the culinary world with the endless possibilities of code. Reach out if you're excited about technology, creativity, or just want to chat over a virtual cup of coffee!
+Let's embark on this coding adventure together, blending the richness of financial expertise with the endless possibilities of code. Reach out if you're passionate about technology, creativity, or simply want to chat over a virtual cup of coffee!
 
-À bientôt and happy coding! 🚀
+Thank you ! and happy coding! 🚀
