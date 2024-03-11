@@ -27,17 +27,17 @@ Kia ora! I'm Prasanthy , a seasoned Accountant from the vibrant landscapes of In
 ## Tech Toolbox in the Making
 - 📦 **Front-end Magic:** HTML, CSS, JavaScript, React, Typescript, Next.js
 - 🎨 **CSS Framework Artisan:** Tailwind CSS, Bootstrap, Material-UI (Mui)
-- 📡 **Back-end Wizardry:** Node.js, Express.js
+- 📡 **Back-end Wizardry:** Node.js, Express.js,Strapi
 - 🗃️ **Database Sorcery:** MongoDB, MySQL
 - 💻 **DevOps Alchemist:** CI/CD, Docker
 - ⚙️ **Version Control:** Git
 - 🚀 **Lifelong Learning:** Continuous Improvement
 
 ## Connect with Me
-🌐 GitHub
-👔 LinkedIn
-🚀 Projects Portfolio
-📄 Resume
+- 🌐 [GitHub](https://github.com/Prasanthyb)
+- 👔 [LinkedIn](https://www.linkedin.com/in/prasanthy-bhaskaran-74ab1b2a3)
+- 🚀 [Projects Portfolio](<https://portfolio.prasanthy.in/>)
+- ⚙️ [Resume] (https://github.com/Prasanthyb/Resume.git) 
 Let's embark on this coding adventure together, blending the richness of financial expertise with the endless possibilities of code. Reach out if you're passionate about technology, creativity, or simply want to chat over a virtual cup of coffee!
 
 Thank you and happy coding! 🚀
