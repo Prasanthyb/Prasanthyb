@@ -1,6 +1,6 @@
 # Welcome to My GitHub Profile! 👋
 
-Kia ora! I'm Prasanthy , a seasoned Accountant from the vibrant landscapes of India, where I've meticulously managed financial intricacies. Now, I'm leveraging my expertise in financial management, transitioning from meticulously balancing books to skillfully crafting code. I bring a unique blend of financial precision to infuse a touch of calculated creativity into the world of technology. As I navigate the shift from numbers to pixels, I bring a unique blend of Indian finesse and global innovation to the dynamic tech sphere.
+"Kia ora! I'm Prasanthy, an enterprising individual hailing from the vibrant landscapes of India. With a solid foundation in financial management and a penchant for meticulous detail, I'm embarking on an exciting journey into the dynamic realm of technology. Armed with years of experience balancing books and navigating financial intricacies, I'm now poised to bring my unique blend of Indian finesse and global innovation to the world of coding. As I transition from meticulously managing numbers to skillfully crafting code, I offer a fresh perspective – a junior developer with a wealth of accountant experience. Let's infuse a touch of calculated creativity into the pixels of tomorrow!"
 
 ## About Me
 - 🥐 **From Ledgers to Code:** A Delectable Transition
