@@ -37,7 +37,7 @@
 - 🌐 [GitHub](https://github.com/Prasanthyb)
 - 👔 [LinkedIn](https://www.linkedin.com/in/prasanthy-bhaskaran-74ab1b2a3)
 - 🚀 [Projects Portfolio](<https://portfolio.prasanthy.in/>)
-- ⚙️ [Resume] ([https://github.com/Prasanthyb/Resume.git](https://drive.google.com/file/d/14Lpwpm3JGWtAMOnbNXGmA2BP8kGDTizJ/view?usp=drive_link)) 
+- ⚙️ [Resume] (https://drive.google.com/file/d/1CqVNetJP--KDKCEwoo0TcIjszanrdZ3b/view?usp=drive_link) 
 Let's embark on this coding adventure together, blending the richness of financial expertise with the endless possibilities of code. Reach out if you're passionate about technology, creativity, or simply want to chat over a virtual cup of coffee!
 
 Thank you and happy coding! 🚀
