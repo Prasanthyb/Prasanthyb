@@ -44,13 +44,14 @@ Currently seeking a web developer position in New Zealand to contribute technica
 - ⚙️ **Version Control:** Git
 - 🚀 **Continuous Learning:** Committed to lifelong learning and staying updated with emerging technologies and best practices in software development.
 
-
 ## Connect with Me
 - 🌐 [GitHub](https://github.com/Prasanthyb)
 - 👔 [LinkedIn](https://www.linkedin.com/in/prasanthy-bhaskaran-74ab1b2a3)
-- 🚀 [Projects Portfolio](<https://portfolio.prasanthy.in/>)
-- ⚙️ [Resume](https://drive.google.com/file/d/1CqVNetJP--KDKCEwoo0TcIjszanrdZ3b/view?usp=drive_link)
-  
-Let's embark on this coding adventure together, blending the richness of financial expertise with the endless possibilities of code. Reach out if you're passionate about technology, creativity, or simply want to chat over a virtual cup of coffee!
+- 🚀 [Projects Portfolio](https://portfolio.prasanthy.in/)
+- ⚙️ [Resume](https://gray-patty-76.tiiny.site/)
 
-Thank you and happy coding! 🚀
+Let's embark on this coding journey together, combining my deep financial expertise with the limitless possibilities of code. Whether you share my passion for technology and creativity or simply want to connect over a virtual cup of coffee, I'm here to collaborate and innovate with you.
+
+Feel free to reach out if you're excited about building seamless digital experiences or exploring new frontiers in technology.
+
+Happy coding and looking forward to connecting with you! 🚀
