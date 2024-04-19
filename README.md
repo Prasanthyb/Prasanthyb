@@ -1,14 +1,19 @@
 # Welcome to My GitHub Profile! 👋
 
-"Kia ora! I'm Prasanthy, an enterprising individual hailing from the vibrant landscapes of India. With a solid foundation in financial management and a penchant for meticulous detail, I'm embarking on an exciting journey into the dynamic realm of technology. Armed with years of experience balancing books and navigating financial intricacies, I'm now poised to bring my unique blend of Indian finesse and global innovation to the world of coding. As I transition from meticulously managing numbers to skillfully crafting code, I offer a fresh perspective – a junior developer with a wealth of accountant experience. Let's infuse a touch of calculated creativity into the pixels of tomorrow!"
+"Experienced software developer with a strategic finance background, combining technical expertise with insights gained from diverse roles.
+Successfully developed a Scheduler and Screen Management Application for Datacom in Wellington, optimizing operational efficiency and user engagement. 
+Demonstrated strong performance optimization skills at iGate Global Solutions, enhancing system functionality and performance through efficient algorithms and architectural design. 
+Recognized for leadership and collaboration in driving financial integrity and operational excellence in previous roles. 
+Currently seeking a web developer position in New Zealand to contribute technical proficiency and business acumen to dynamic teams and impactful projects."
 
-## About Me
-- 🥐 **From Ledgers to Code:** A Delectable Transition
-- 🇮🇳 **Indian Expertise meets Global Innovation**
-- 🌏 **Exploring New Zealand's Wonders while Crafting Code**
-- 📚 **Currently mastering Full Stack Development at Mission Ready HQ**
-- ⌨️ **Blending Financial Precision with the Logic of Code**
-
+🥐 From Ledgers to Code: A Delectable Transition
+🇮🇳 Indian Expertise meets Global Innovation
+🌏 Exploring New Zealand's Wonders while Crafting Code
+🎓 Level-6 Full Stack Development Certification from Mission Ready
+⌨️ Blending Financial Precision with the Logic of Code
+💼 Proven track record in software development and financial management
+🔧 Developed Enterprise Scheduler and Screen Management Application at DATACOM, Wellington
+🌐 Seeking opportunities to apply my skills in a developer role in New Zealand
 ## My Path
 - 👨‍🍳 **A Decade of Financial Excellence in India**
 - 📜 **Embracing the Challenge of Full Stack Development**
@@ -37,7 +42,8 @@
 - 🌐 [GitHub](https://github.com/Prasanthyb)
 - 👔 [LinkedIn](https://www.linkedin.com/in/prasanthy-bhaskaran-74ab1b2a3)
 - 🚀 [Projects Portfolio](<https://portfolio.prasanthy.in/>)
-- ⚙️ [Resume](https://drive.google.com/file/d/1CqVNetJP--KDKCEwoo0TcIjszanrdZ3b/view?usp=drive_link) 
+- ⚙️ [Resume](https://drive.google.com/file/d/1CqVNetJP--KDKCEwoo0TcIjszanrdZ3b/view?usp=drive_link)
+  
 Let's embark on this coding adventure together, blending the richness of financial expertise with the endless possibilities of code. Reach out if you're passionate about technology, creativity, or simply want to chat over a virtual cup of coffee!
 
 Thank you and happy coding! 🚀
