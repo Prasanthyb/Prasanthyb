@@ -1,10 +1,6 @@
 # Welcome to My GitHub Profile! 👋
 
-"Experienced software developer with a strategic finance background, combining technical expertise with insights gained from diverse roles.
-Successfully developed a Scheduler and Screen Management Application for Datacom in Wellington, optimizing operational efficiency and user engagement. 
-Demonstrated strong performance optimization skills at iGate Global Solutions, enhancing system functionality and performance through efficient algorithms and architectural design. 
-Recognized for leadership and collaboration in driving financial integrity and operational excellence in previous roles. 
-Currently seeking a web developer position in New Zealand to contribute technical proficiency and business acumen to dynamic teams and impactful projects."
+As a motivated software professional, I bring a varied background and a track record of success. Excelling in high-pressure environments, I manage tasks effectively to meet deadlines and keep abreast of industry developments. With my adaptability and commitment, I am keen to make a significant impact at a progressive company.
 
 ## About Me
 - 🥐 **From Ledgers to Code:** A Delectable Transition
