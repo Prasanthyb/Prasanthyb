@@ -44,7 +44,7 @@ As a motivated software professional, I bring a varied background and a track re
 - 🌐 [GitHub](https://github.com/Prasanthyb)
 - 👔 [LinkedIn](https://www.linkedin.com/in/prasanthy-bhaskaran-74ab1b2a3)
 - 🚀 [Projects Portfolio](https://portfolio.prasanthy.in/)
-- ⚙️ [Resume](https://indigo-daile-65.tiiny.site)
+- ⚙️ [Resume](https://amber-beatrisa-70.tiiny.site)
 
 Let's embark on this coding journey together, combining my deep financial expertise with the limitless possibilities of code. Whether you share my passion for technology and creativity or simply want to connect over a virtual cup of coffee, I'm here to collaborate and innovate with you.
 
