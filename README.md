@@ -1,6 +1,6 @@
 # Welcome to My GitHub Profile! 👋
 
-As a motivated software professional, I bring a varied background and a track record of success. Excelling in high-pressure environments, I manage tasks effectively to meet deadlines and keep abreast of industry developments. With my adaptability and commitment, I am keen to make a significant impact at a progressive company.
+Motivated Full Stack Web Developer with extensive experience in high-pressure environments. Expertise in developing mobile-friendly, cloud-ready, and AI-driven applications. Skilled in managing tasks to meet deadlines, adapting to new challenges, and continuous learning. 
 
 ## About Me
 - 🥐 **From Ledgers to Code:** A Delectable Transition
