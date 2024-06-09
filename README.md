@@ -44,7 +44,7 @@ Motivated Full Stack Web Developer with extensive experience in high-pressure en
 - 🌐 [GitHub](https://github.com/Prasanthyb)
 - 👔 [LinkedIn](https://www.linkedin.com/in/prasanthy-bhaskaran-74ab1b2a3)
 - 🚀 [Projects Portfolio](https://portfolio.prasanthy.in/)
-- ⚙️ [Resume](https://drive.google.com/file/d/1fZcXhNWumnPYMtfC4KaPI2nJe1cJic64/view?usp=sharing)
+- ⚙️ [Resume](https://drive.google.com/file/d/1BJ978Nh9S7wi6qzJbs6V1QFWbnlva2B9/view?usp=sharing)
 
 Let's embark on this coding journey together, combining my deep financial expertise with the limitless possibilities of code. Whether you share my passion for technology and creativity or simply want to connect over a virtual cup of coffee, I'm here to collaborate and innovate with you.
 
